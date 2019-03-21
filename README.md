@@ -1,4 +1,4 @@
-# ESP8266-Ra-02-arduino-code
+# 15$ LoRa Gateway/Node ESP8266 Build PCB
 
 Video tutorial : https://youtu.be/wcAqpmt9OTs
 
